@@ -2,7 +2,6 @@
 google-cloud-bigquery==3.12.0
 google-api-python-client==2.109.0
 
-
 # Machine Learning Libraries
 scikit-learn==1.3.2
 
@@ -31,3 +30,7 @@ jupyter==1.0.0
 ipython==8.16.1
 ipykernel==6.25.2
 nbconvert==7.11.0
+
+# For deployment of ML app
+fastapi==0.104.1
+pydantic==2.5.2
