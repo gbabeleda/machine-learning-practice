@@ -1,0 +1,35 @@
+version: 2
+
+sources:
+  - name: new_york_taxi_trips
+    database: bigquery-public-data
+    schema: new_york_taxi_trips
+    description: BigQuery public data set on new 
+    tables:
+      - name: taxi_zone_geom
+      - name: tlc_fhv_trips_2015
+      - name: tlc_fhv_trips_2016
+      - name: tlc_fhv_trips_2017
+      - name: tlc_green_trips_2014
+      - name: tlc_green_trips_2015
+      - name: tlc_green_trips_2016
+      - name: tlc_green_trips_2017
+      - name: tlc_green_trips_2018
+      - name: tlc_green_trips_2019
+      - name: tlc_green_trips_2020
+      - name: tlc_green_trips_2021
+      - name: tlc_green_trips_2022
+      - name: tlc_green_trips_2023
+      - name: tlc_yellow_trips_2011
+      - name: tlc_yellow_trips_2012
+      - name: tlc_yellow_trips_2013
+      - name: tlc_yellow_trips_2014
+      - name: tlc_yellow_trips_2015
+      - name: tlc_yellow_trips_2016
+      - name: tlc_yellow_trips_2017
+      - name: tlc_yellow_trips_2018
+      - name: tlc_yellow_trips_2019
+      - name: tlc_yellow_trips_2020
+      - name: tlc_yellow_trips_2021
+      - name: tlc_yellow_trips_2022
+      - name: tlc_yellow_trips_2023
