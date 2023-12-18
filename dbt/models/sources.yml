@@ -4,7 +4,7 @@ sources:
   - name: new_york_taxi_trips
     database: bigquery-public-data
     schema: new_york_taxi_trips
-    description: BigQuery public data set on new 
+    description: BigQuery public dataset collected by the NYC Taxi and Limousine Commision (TLC) and includes trip records from all trips completed in Yellow and Green Taxis in NYC, and all for-hire vehicles in the last 5 years.
     tables:
       - name: taxi_zone_geom
       - name: tlc_fhv_trips_2015
