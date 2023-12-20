@@ -8,6 +8,7 @@ dbt==1.0.0.34.18
 # Dashboard
 streamlit[all]
 streamlit-lottie
+streamlit-extras
 
 # Machine Learning Libraries
 scikit-learn==1.3.2
