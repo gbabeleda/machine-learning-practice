@@ -26,3 +26,13 @@ st.divider()
 # Set Sidebar
 with st.sidebar:
     st.write("By Jose Mari Angelo Abeleda")
+    
+
+
+
+
+
+# Page Body
+st.write("Test Image and File")
+st.image("static/images/Scikit_learn_logo.png")
+
